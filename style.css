@@ -1,0 +1,139 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+     font-family:arial,courier,helvetica;
+    max-width: 1200px;
+}
+
+.head{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.smile{
+    margin-right: 100px;
+    color: rgb(6, 90, 62);
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: -20px;
+}
+
+span{
+    font-weight: 900;
+}
+
+.login{
+    margin-left: 250px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(6, 90, 62);
+}
+
+button{
+    background-color: rgb(6, 90, 62);
+    width: 120px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.imglogo{
+    width: 35px;
+    margin-top: 5px;
+}
+
+.divcardbig{
+    display: flex;
+    margin: 20px 80px;
+}
+
+.divcard1{
+    width: 50%;
+}
+
+h1{
+    line-height: 60px;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(6, 90, 62);
+}
+
+.pp1{
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: gray;
+    line-height: 30px;
+}
+
+.divcardss{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 80px;
+    margin-top: 50px;
+}
+
+.h12{
+    font-size: 35px;
+    font-weight: 400;
+    width: 40%;
+}
+
+.pp2{
+    color: grey;
+    line-height: 30px;
+    width: 40%;
+}
+
+.diw{
+    display: flex;
+    margin: 0 80px;
+    width: ;
+}
+
+.diwww{
+    border: 1px solid gray;
+    margin: 40px 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.foto{
+    width: 60px;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: rgb(6, 90, 62);
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.op{
+    font-size: 14px;
+    color: gray;
+}
